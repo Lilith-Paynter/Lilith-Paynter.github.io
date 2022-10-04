@@ -4,4 +4,4 @@
 
 ~~how cool~~
 
-[contact]()
+[contact](Lilith-Paynter.github,io/contact.html)
