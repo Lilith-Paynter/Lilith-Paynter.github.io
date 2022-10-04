@@ -1,2 +1,2 @@
 ## Contact
-[Menu](https://Lilith-Paynter.github.io/README.html)
+[README](https://Lilith-Paynter.github.io/README.html)
