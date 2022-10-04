@@ -1,2 +1,4 @@
-# LilithPaynter
-Hello :)
+**This is a website**
+-
+my website
+~~how cool~~
