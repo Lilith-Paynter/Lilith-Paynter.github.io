@@ -4,4 +4,4 @@
 
 ~~how cool~~
 
-[contact](Lilith-Paynter.github,io/contact.html)
+[contact](https://Lilith-Paynter.github,io/contact.html)
