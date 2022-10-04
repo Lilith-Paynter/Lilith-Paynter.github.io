@@ -4,6 +4,6 @@
 
 ~~how cool~~
 
-[Contact](https://Lilith-Paynter.github.io/Contact.html)
+- [Contact](https://Lilith-Paynter.github.io/Contact.html)
 
-[About](https://Lilith-Paynter.github.io/About.html)
+- [About](https://Lilith-Paynter.github.io/About.html)
