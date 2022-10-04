@@ -3,3 +3,5 @@
 *my website*
 
 ~~how cool~~
+
+[contact]()
